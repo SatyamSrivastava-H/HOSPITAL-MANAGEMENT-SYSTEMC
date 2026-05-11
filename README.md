@@ -230,7 +230,7 @@ java -cp ".:mysql-connector-j-9.4.0.jar:build" com.hospital.Main
 - **Status Tracking**: Complete appointment lifecycle management
 - **Search & Filter**: Easy appointment lookup and management
 
-## 🔹 Sample Data
+## 🔹SAMLPLE DATA
 
 The system comes with pre-loaded sample data:
 - 5 sample doctors across different specializations
