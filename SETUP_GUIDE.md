@@ -58,7 +58,7 @@ private static final String PASSWORD = "your_password_here";
 **Option A: Using Command Line**
 ```bash
 # Navigate to project directory
-cd "C:\Users\Himanshu\OneDrive\Documents\java\HospitalManagementSystem"
+cd "C:\Users\Satyam Srivastava\hospital-management-system"
 
 # Create lib directory and copy MySQL driver
 mkdir lib
