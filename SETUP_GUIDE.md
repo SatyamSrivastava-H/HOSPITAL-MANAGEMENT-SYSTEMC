@@ -37,7 +37,7 @@
 ✅ **MySQL Connector Located**
    - Your MySQL connector is already available at:
    ```
-   C:\Users\Himanshu\OneDrive\Documents\java\mysql-connector-j-9.4.0\mysql-connector-j-9.4.0.jar
+   "C:\Users\Satyam Srivastava\Downloads\mysql-connector-j-9.7.0\mysql-connector-j-9.7.0\mysql-connector-j-9.7.0.jar"
    ```
    - The batch files have been updated to use this path automatically
 
