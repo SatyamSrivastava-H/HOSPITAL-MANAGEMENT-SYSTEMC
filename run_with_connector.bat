@@ -7,7 +7,7 @@ echo.
 echo Using MySQL Connector: mysql-connector-j-9.4.0.jar
 echo.
 
-set MYSQL_CONNECTOR="C:\Users\Himanshu\OneDrive\Documents\java\mysql-connector-j-9.4.0\mysql-connector-j-9.4.0.jar"
+set MYSQL_CONNECTOR="C:\Users\Satyam Srivastava\Downloads\mysql-connector-j-9.7.0\mysql-connector-j-9.7.0\mysql-connector-j-9.7.0.jar"r"
 
 echo Step 1: Creating build directory...
 if not exist build mkdir build
