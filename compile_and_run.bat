@@ -9,7 +9,7 @@ if not exist build mkdir build
 
 echo.
 echo Step 2: Checking for MySQL JDBC driver...
-set MYSQL_CONNECTOR="C:\Users\Himanshu\OneDrive\Documents\java\mysql-connector-j-9.4.0\mysql-connector-j-9.4.0.jar"
+set MYSQL_CONNECTOR=""C:\Users\Satyam Srivastava\Downloads\mysql-connector-j-9.7.0\mysql-connector-j-9.7.0\mysql-connector-j-9.7.0.jar""
 if not exist %MYSQL_CONNECTOR% (
     echo ERROR: MySQL JDBC driver not found at expected location!
     echo Expected: %MYSQL_CONNECTOR%
